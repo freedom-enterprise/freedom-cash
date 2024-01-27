@@ -30,6 +30,7 @@
 			visitorIsConnectedViaBrowserWallet = true;
 		}
 	});
+
 </script>
 
 <section class="text-center">
@@ -98,6 +99,7 @@
 		<p><br /></p>
 		<FreedomProjects></FreedomProjects>
 	{/if}
+
 </section>
 
 <style>
@@ -111,8 +113,5 @@
 			text-align: center;
 		}
 	}
-	.moniqueImage {
-		width: 450px;
-		border-radius: 9%;
-	}
+
 </style>
